@@ -1,13 +1,17 @@
+<?php declare(strict_types=1); ?>
 <!doctype html>
+
+
 <html>
 
 <head>
+
     <link rel="stylesheet" href="styles/mainstyle.css">
     <title>dev.audiomixing.de - Enums mit useState verwenden</title>
 </head>
 
 <body>
-    <h3><a href="./openui5_refresh_custom_control.php">OpenUI5: Refresh Custom Control / Rerender Alternative
+    <h3><a href="?article=0001">OpenUI5: Refresh Custom Control / Rerender Alternative
             invalidate()</a>
         <img src="./images/logo_openui5.png" class="logo" />
     </h3>
